@@ -1,0 +1,7 @@
+tensorflow
+matplotlib
+Script
+numpy
+pandas
+ipython
+tqdm
